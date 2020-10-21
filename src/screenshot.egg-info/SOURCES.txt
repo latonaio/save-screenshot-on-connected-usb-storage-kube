@@ -1,0 +1,12 @@
+setup.py
+src/screenshot/__init__.py
+src/screenshot/__main__.py
+src/screenshot/const.py
+src/screenshot/core.py
+src/screenshot/db.py
+src/screenshot/save.py
+src/screenshot/service.py
+src/screenshot.egg-info/PKG-INFO
+src/screenshot.egg-info/SOURCES.txt
+src/screenshot.egg-info/dependency_links.txt
+src/screenshot.egg-info/top_level.txt

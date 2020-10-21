@@ -1,0 +1,46 @@
+{
+    "priorServiceDevice": "anemoi",
+    "priorSuccess": true,
+    "priorServiceName": "",
+    "priorDirectoryOfService": "",
+    "priorRuntime": {
+        "type": "",
+        "run": ""
+    },
+    "nextServiceList": [{
+        "nextServiceName": "SaveScreenshotOnConnectedUsbStorage",
+        "nextDirectoryOfService": "/home/toyota/anemoi/Runtime/save-screenshot-on-connected-usb-storage",
+        "nextRuntime": {
+            "type": "python",
+            "run": "main.py"
+        },
+        "nextServiceDevice": "anemoi"
+    }],
+    "transactionCodes": {
+        "transactionCode2": "",
+        "transactionCode1": "",
+        "transactionCode0": ""
+    },
+    "inputHeader": {
+        "type": "file",
+        "content": "output-json"
+    },
+    "inputFileName": "",
+    "outputHeader": {
+        "type": null,
+        "content": null
+    },
+    "outputFileName": "",
+    "startAt": null,
+    "finishAt": null,
+    "metadata": [
+        {
+	  "key": "screen_name",
+          "value": "title"
+        },
+        {
+            "key": "screenshot_id",
+            "value": 2
+        }
+    ]
+}
